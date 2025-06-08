@@ -66,9 +66,7 @@ const QuizApp = () => {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-2">Инфляция</h1>
-          <p className="text-gray-600">
-            Проверьте свои знания вместе с любимыми персонажами!
-          </p>
+          <p className="text-gray-600">Тест из пяти вопросов!</p>
         </div>
 
         <ProgressBar
